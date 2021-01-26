@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T08:27:18.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="1R5SaC67UaNeWnpFs2UL" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T08:29:40.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="j_OTMEMIFPCxDsKrUdwJ" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,7 +146,7 @@
             <mxPoint x="383" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-13" value="规划好的航线的坐标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EscZW_BrQ0_QzKTYQJXw-10">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-13" value="规划好的航线的坐标&lt;br&gt;每一点的速度？&lt;br&gt;路程长度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EscZW_BrQ0_QzKTYQJXw-10">
           <mxGeometry x="-0.2305" y="1" relative="1" as="geometry">
             <mxPoint x="55.5" y="-10" as="offset" />
           </mxGeometry>
@@ -157,7 +157,7 @@
             <mxPoint x="283" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="经纬度&lt;br&gt;海拔高度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EscZW_BrQ0_QzKTYQJXw-11">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="经纬度&lt;br&gt;海拔高度&lt;br&gt;速度？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EscZW_BrQ0_QzKTYQJXw-11">
           <mxGeometry x="-0.3219" relative="1" as="geometry">
             <mxPoint x="-47.5" y="19" as="offset" />
           </mxGeometry>
