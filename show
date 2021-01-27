@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T12:58:29.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="woaR251uRk03J73Ri4LF" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T14:06:30.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="qxcTKZe_8lz5I-JB5Tk3" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,25 +101,14 @@
         <mxCell id="EscZW_BrQ0_QzKTYQJXw-5" value="添加航点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="348" y="655" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-7" value="航路规划模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-7" value="&lt;br&gt;航路规划模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="333" y="840" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-8" value="路径规划" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="373" y="830" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-9" value="轨迹优化" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="513" y="830" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-10" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EscZW_BrQ0_QzKTYQJXw-8" target="EscZW_BrQ0_QzKTYQJXw-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="333" y="840" as="sourcePoint" />
-            <mxPoint x="383" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-13" value="规划好的航线的坐标&lt;br&gt;每一点的速度？&lt;br&gt;路程长度？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EscZW_BrQ0_QzKTYQJXw-10" vertex="1" connectable="0">
-          <mxGeometry x="-0.2305" y="1" relative="1" as="geometry">
-            <mxPoint x="55.5" y="-10" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EscZW_BrQ0_QzKTYQJXw-11" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EscZW_BrQ0_QzKTYQJXw-2" target="EscZW_BrQ0_QzKTYQJXw-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -127,9 +116,9 @@
             <mxPoint x="283" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="经纬度&lt;br&gt;海拔高度&lt;br&gt;速度？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EscZW_BrQ0_QzKTYQJXw-11" vertex="1" connectable="0">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="经纬度&lt;br&gt;海拔高度&lt;br&gt;速度&lt;br&gt;起止航向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EscZW_BrQ0_QzKTYQJXw-11" vertex="1" connectable="0">
           <mxGeometry x="-0.3219" relative="1" as="geometry">
-            <mxPoint x="-47.5" y="19" as="offset" />
+            <mxPoint x="4.5" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EscZW_BrQ0_QzKTYQJXw-18" value="飞控" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -149,15 +138,21 @@
         <mxCell id="EscZW_BrQ0_QzKTYQJXw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="625" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EscZW_BrQ0_QzKTYQJXw-3" target="EscZW_BrQ0_QzKTYQJXw-9" edge="1">
+        <mxCell id="IZ8jEP30FBK9kk8wU4N9-0" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="860" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ8jEP30FBK9kk8wU4N9-1" value="轨迹优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="488" y="860" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ8jEP30FBK9kk8wU4N9-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EscZW_BrQ0_QzKTYQJXw-9" target="EscZW_BrQ0_QzKTYQJXw-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1140" as="sourcePoint" />
-            <mxPoint x="250" y="1090" as="targetPoint" />
+            <mxPoint x="670" y="810" as="sourcePoint" />
+            <mxPoint x="720" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZsrbtfujwdyRgktJ7J4-0" value="？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EscZW_BrQ0_QzKTYQJXw-23" vertex="1" connectable="0">
-          <mxGeometry x="-0.2305" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="IZ8jEP30FBK9kk8wU4N9-3" value="规划好的航线&lt;br&gt;路程长度？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ8jEP30FBK9kk8wU4N9-2">
+          <mxGeometry x="0.3981" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
