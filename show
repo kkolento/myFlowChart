@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T03:09:26.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="6RtBHYn_HIMiA34lZCz0" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T03:43:38.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="KhVqfjzUm-uhaAqG3bJM" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,17 +114,22 @@
             <mxPoint x="283" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="经纬度&lt;br&gt;高度&lt;br&gt;起止航向&lt;br&gt;速度、爬升率(可选)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EscZW_BrQ0_QzKTYQJXw-11" vertex="1" connectable="0">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-12" value="任务航点的经纬度&lt;br&gt;高度&lt;br&gt;起止航向&lt;br&gt;速度、爬升率(可选)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#33FF33;" parent="EscZW_BrQ0_QzKTYQJXw-11" vertex="1" connectable="0">
           <mxGeometry x="-0.3219" relative="1" as="geometry">
-            <mxPoint y="9" as="offset" />
+            <mxPoint x="-55" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPNyqNoB-0qCXmbU-jOL-0" value="&lt;font color=&quot;#000000&quot;&gt;威胁源的坐标&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#33FF33;labelBackgroundColor=#33FF33;" vertex="1" connectable="0" parent="EscZW_BrQ0_QzKTYQJXw-11">
+          <mxGeometry x="-0.7752" y="3" relative="1" as="geometry">
+            <mxPoint x="39" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EscZW_BrQ0_QzKTYQJXw-18" value="飞控" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="597.5" width="160" height="60" as="geometry" />
+          <mxGeometry y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EscZW_BrQ0_QzKTYQJXw-19" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IZ8jEP30FBK9kk8wU4N9-4" target="EscZW_BrQ0_QzKTYQJXw-18" edge="1">
+        <mxCell id="EscZW_BrQ0_QzKTYQJXw-19" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EscZW_BrQ0_QzKTYQJXw-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="627.5" as="sourcePoint" />
+            <mxPoint x="80" y="580" as="sourcePoint" />
             <mxPoint x="300" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -145,9 +150,9 @@
             <mxPoint x="720" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZ8jEP30FBK9kk8wU4N9-3" value="规划好的航线&lt;br&gt;路程长度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IZ8jEP30FBK9kk8wU4N9-2" vertex="1" connectable="0">
+        <mxCell id="IZ8jEP30FBK9kk8wU4N9-3" value="规划好的航线&lt;br&gt;预估路程长度（可选）&lt;br&gt;预估飞行时间（可选）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IZ8jEP30FBK9kk8wU4N9-2" vertex="1" connectable="0">
           <mxGeometry x="0.3981" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="23" as="offset" />
+            <mxPoint x="21" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IZ8jEP30FBK9kk8wU4N9-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -167,6 +172,9 @@
               <mxPoint x="528" y="628" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fPNyqNoB-0qCXmbU-jOL-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#33FF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="482.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
