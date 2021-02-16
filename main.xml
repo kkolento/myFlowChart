@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T13:36:29.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="MH7POLcru8_g2LeC9a-T" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T13:37:40.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="1RbP_G1TFPW9dAk_MXq5" version="14.3.0" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,10 @@
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KXqY9GyKnCEClt6jlJ0d-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;bdd&lt;/b&gt;&amp;nbsp;地面站软件系统&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;labelX=132.06;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="910" height="500" as="geometry" />
+          <mxGeometry x="390" y="400" width="1060" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="KXqY9GyKnCEClt6jlJ0d-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;{encapsulated}&lt;br&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;约束属性&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;{x &amp;gt; y}&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;operations&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;operation1 (p1 : Type1) : Type2&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;组成部分属性&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;property1 : Block2&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;引用属性&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;property2 : Block3 [0..*] {ordered}&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;值属性&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;property3 : Integer = 99 {readOnly}&lt;br&gt;property4 : Real = 10.0&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;i&gt;properties&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;property5 : Type1&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="220" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
