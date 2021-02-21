@@ -1,62 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T05:54:59.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="sML1gcArMIFfcGArethv" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T06:15:47.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="VU_Id_KROd3jkICLMAxO" version="14.3.0" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="KXqY9GyKnCEClt6jlJ0d-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;bdd&lt;/b&gt;&amp;nbsp;地面站软件系统&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;labelX=132.06;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="481.5" y="730" width="1060" height="540" as="geometry" />
+          <mxGeometry x="452.25" y="760" width="1060" height="540" as="geometry" />
         </mxCell>
         <mxCell id="KXqY9GyKnCEClt6jlJ0d-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;地面站软件&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px ; margin: 0px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="901.5" y="120" width="220" height="40" as="geometry" />
+          <mxGeometry x="901.5" y="130" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLXL8zaqXAW2Hsa7uCz5-31" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;UDP&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="970" y="590" width="83" height="40" as="geometry" />
+          <mxGeometry x="920" y="570" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SLXL8zaqXAW2Hsa7uCz5-59" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;任务管理模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="500" y="430" width="220" height="50" as="geometry" />
+        <mxCell id="SLXL8zaqXAW2Hsa7uCz5-59" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;飞行数据模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="421.5" y="270" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;数字地图模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="320" width="220" height="50" as="geometry" />
+          <mxGeometry x="1292.25" y="280" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HozNPg3JffCUqAPHiNX_-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="550" as="sourcePoint" />
+            <mxPoint x="865" y="530" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="802" y="550" />
+              <mxPoint x="769" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;SerialPort&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="863.5" y="590" width="83" height="40" as="geometry" />
+          <mxGeometry x="823.5" y="570" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TCP&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="760" y="590" width="83" height="40" as="geometry" />
+          <mxGeometry x="727" y="570" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="SLXL8zaqXAW2Hsa7uCz5-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="550" as="sourcePoint" />
+            <mxPoint x="865" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;通信模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HozNPg3JffCUqAPHiNX_-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;通信模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;LinkManager&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="901.5" y="280" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-18" value="" style="align=right;html=1;verticalAlign=bottom;endArrow=none;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HozNPg3JffCUqAPHiNX_-40">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="950" y="510" as="sourcePoint" />
-            <mxPoint x="905" y="550" as="targetPoint" />
+            <mxPoint x="910" y="520" as="sourcePoint" />
+            <mxPoint x="865" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-19" value="" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-18">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-20" value="" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-18">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-36" value="" style="verticalAlign=bottom;html=1;endArrow=open;endSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HozNPg3JffCUqAPHiNX_-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="550" as="sourcePoint" />
-            <mxPoint x="1130" y="670" as="targetPoint" />
+            <mxPoint x="865" y="530" as="sourcePoint" />
+            <mxPoint x="1090" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-37" value="" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-36">
@@ -68,8 +70,8 @@
         <mxCell id="HozNPg3JffCUqAPHiNX_-39" value="" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-36">
           <mxGeometry x="0.9" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-40" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;串口模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="850" y="430" width="110" height="50" as="geometry" />
+        <mxCell id="HozNPg3JffCUqAPHiNX_-40" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;串口模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;(MyPort)&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="430" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-44" value="" style="align=right;html=1;verticalAlign=bottom;endArrow=none;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KXqY9GyKnCEClt6jlJ0d-13" target="HozNPg3JffCUqAPHiNX_-4">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -83,40 +85,21 @@
         <mxCell id="HozNPg3JffCUqAPHiNX_-46" value="" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-44">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-47" value="" style="verticalAlign=bottom;html=1;endArrow=open;endSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KXqY9GyKnCEClt6jlJ0d-13" target="HozNPg3JffCUqAPHiNX_-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1012" y="170" as="sourcePoint" />
-            <mxPoint x="1014.97" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1012" y="160" />
-              <mxPoint x="1012" y="160" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-51" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;协议解析模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;(MyProtocol)&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="956.5" y="430" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-48" value="" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-47">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-49" value="" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-47">
-          <mxGeometry x="0.9" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-50" value="" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-47">
-          <mxGeometry x="0.9" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-51" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;协议解析模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="430" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HozNPg3JffCUqAPHiNX_-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="HozNPg3JffCUqAPHiNX_-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HozNPg3JffCUqAPHiNX_-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1015" y="390" as="sourcePoint" />
             <mxPoint x="901" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="901" y="390" />
+              <mxPoint x="865" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HozNPg3JffCUqAPHiNX_-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="390" as="sourcePoint" />
+            <mxPoint x="1012" y="390" as="sourcePoint" />
             <mxPoint x="1121.4105882352944" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -131,6 +114,78 @@
         </mxCell>
         <mxCell id="HozNPg3JffCUqAPHiNX_-56" value="" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-54">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HozNPg3JffCUqAPHiNX_-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-62" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;数据分发模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;(Vehicle)&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-64" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;航线任务模块&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-65" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;仪表盘模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;(MyGauge)&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="508.75" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-66" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;水平仪&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="83" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-67" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;指南针&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="522.25" y="570" width="83" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-68" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;...&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="83" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-72" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;参数列表模块&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;(MyInspector)&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="472" y="470" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HozNPg3JffCUqAPHiNX_-83" target="HozNPg3JffCUqAPHiNX_-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="92" y="60" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="92" y="70" />
+              <mxPoint x="92" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HozNPg3JffCUqAPHiNX_-83" target="HozNPg3JffCUqAPHiNX_-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99.5" y="60" as="sourcePoint" />
+            <mxPoint x="-2" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="60" />
+              <mxPoint y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HozNPg3JffCUqAPHiNX_-83" target="HozNPg3JffCUqAPHiNX_-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="60" as="sourcePoint" />
+            <mxPoint x="191.0714285714289" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="95" y="60" />
+              <mxPoint x="190" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-75" value="" style="align=right;html=1;verticalAlign=bottom;endArrow=none;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HozNPg3JffCUqAPHiNX_-83" source="HozNPg3JffCUqAPHiNX_-65">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="92" as="sourcePoint" />
+            <mxPoint x="92" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-76" value="" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-75">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HozNPg3JffCUqAPHiNX_-77" value="" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="HozNPg3JffCUqAPHiNX_-75">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
