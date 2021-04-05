@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T13:41:45.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="CCYKzfY40IRWDbxTpD9N" version="14.4.3" type="github"><diagram id="XL6aL3diKBtOu2nn48kT" name="Page-1">3Zhdj6IwFIZ/zbmcBFo+2ktQnLmZKy8mmTuUrpCANUxd1F+/p1BGkW7Wnewo2cSY9m2B8rynpy1AZ9XhuU53+avMRAnEyQ5A50CI6xEC+udkx04JudcJm7rITKezsCxOwoiOUfdFJj4GHZWUpSp2Q3Ett1uxVgMtrWvZDLv9kOXwqbt0I0bCcp2WY/WtyFTeqYyEZ/1FFJu8f7Ib8K6lSvvO5k0+8jSTzYVEE6CzWkrVlarDTJQaXs+lu27xm9bPgdViq265gJ6OK/lyPL2vZEUofT/t89cn19zmZ1ruzRub0apjj6CW+20m9F0coHGTF0osd+latzZoOmq5qkqsuVgcj6p/gqiVOFxIZpTPQlZC1UfsYlq5AWYihjBTb878A99o+QV7r4+Z1Hi++bz1GQsWDJm/oMTHkJIAuA+xowtsDlECSaj/I1cX8BVYAAl2cIHhpUGJY4xXNZY2qqX0NeXBzhAeDKzxvbE1JLRY4zrfZY1vsQb5exCx1hoGcdiaRbVNiQfxHPjs/7eGkodbY0ktllmDjswgQgWdSrRN/96ayZvl0YebRW4yC6tR69E41wV6xmnFB45TLHw4ZHq1jvh8DJnblpHvQkxvRIw5q1s82AK4O0Wy/tUKbck1dyXr3bg+89gAZRi84RTJOnSYxcMxWebekWxgIct0hEaRBorZIF5oBWkyzwQvJ1Mke5UNbGTvGrOhhayvQ5V1QJM2ZluyEW3DOdGpdnpkCZ1YNmAWshzwFMGjdruxaPFNjiNlV5sCy7nnrhz749RVWmUcIm52aZhipwfSY/yPU922ufoCSKyeD/Bt28VnEJr8Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-05T11:18:01.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="eEMdYQkkFvuSgAqx_nru" version="14.5.7" type="github">
+  <diagram id="XL6aL3diKBtOu2nn48kT" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3zyboHyzZbom233ZzuhM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="280" width="650" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-9" value="数据管理层&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296" y="540" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-5" value="用户操作层&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296" y="320" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-1" value="数据传输层&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296" y="430" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-2" value="数据库管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-3" value="数据分发模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-4" value="数据监控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="370" width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-6" value="航线规划模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-7" value="协议解析模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-8" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="386" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3zyboHyzZbom233ZzuhM-10" value="扩展模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="489" y="370" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="830" width="1280" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-2" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="840" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-7" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="900" width="60" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-8" value="仪表盘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="896" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-9" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1086" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6aZpRVK1wGklk4xLISPi-10" value="图像显示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1340" width="370" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
