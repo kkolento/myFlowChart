@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T11:37:03.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="CahNbMXB70SN5ttY6_KO" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T13:39:33.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="54qvkkFs0lASbmp71Zle" version="14.5.7" type="github">
   <diagram id="XL6aL3diKBtOu2nn48kT" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,58 +37,55 @@
         <mxCell id="3zyboHyzZbom233ZzuhM-10" value="扩展模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="370" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="830" width="1280" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-2" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="840" width="1200" height="50" as="geometry" />
+        <mxCell id="6aZpRVK1wGklk4xLISPi-2" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="840" width="1260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="840" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-7" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-7" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1440" y="900" width="60" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-8" value="仪表盘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-8" value="仪表盘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="896" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-9" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-9" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="1086" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-10" value="图像显示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-10" value="图像显示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="242.5" y="1360" width="290" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-11" value="&lt;font style=&quot;font-size: 25px&quot;&gt;数字地图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-11" value="&lt;font style=&quot;font-size: 25px&quot;&gt;数字地图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="1610" width="1280" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-12" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-12" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="1620" width="1260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-13" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-13" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1680" width="60" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-14" value="航点信息列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-14" value="航点信息列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="2130" width="1260" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-15" value="任务装订&lt;br&gt;功能选择" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-15" value="任务装订&lt;br&gt;功能选择" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="1680" width="180" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-16" value="&lt;font style=&quot;font-size: 25px&quot;&gt;图像显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-16" value="&lt;font style=&quot;font-size: 25px&quot;&gt;图像显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="2380" width="1280" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-17" value="数字地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-17" value="数字地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="2910" width="290" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-18" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-18" value="&amp;nbsp; &amp;nbsp; 状态栏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="2390" width="1260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-19" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-19" value="按&lt;br&gt;键&lt;br&gt;区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1440" y="2450" width="60" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-20" value="仪表盘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-20" value="仪表盘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="2450" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6aZpRVK1wGklk4xLISPi-21" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="6aZpRVK1wGklk4xLISPi-21" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="2640" width="290" height="120" as="geometry" />
         </mxCell>
       </root>
