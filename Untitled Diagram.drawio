@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:12:42.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="WlfYAVdBZLLZ9OV-MHGZ" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:17:15.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="Ev4L4oIeon6JplaYPine" version="14.5.7" type="github">
   <diagram id="XL6aL3diKBtOu2nn48kT" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,11 @@
         <mxCell id="6aZpRVK1wGklk4xLISPi-21" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="2640" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7bwwpkhhdbi9v0hprMws-1" value="用户界面层&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7bwwpkhhdbi9v0hprMws-1" value="用户界面层&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="260" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7bwwpkhhdbi9v0hprMws-2" value="Ui管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="310" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
